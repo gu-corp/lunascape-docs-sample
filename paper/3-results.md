@@ -42,7 +42,7 @@ $$
 
 ```vega-lite
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "混合時間の上界と実測値",
   "width": 420,
   "height": 240,
