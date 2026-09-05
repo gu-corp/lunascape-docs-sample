@@ -5,7 +5,7 @@
 
 ## Abstract
 
-For the lazy random walk on a finite connected graph, we review the bound on the mixing time \(t_{\mathrm{mix}}(\varepsilon)\) in terms of the spectral gap \(\gamma\) and the minimum of the stationary distribution \(\pi_{\min}\), and compare its sharpness on cycles and complete graphs. The paper doubles as an example of writing a paper with Lunascape Docs: theorems and proofs, a TikZ figure, a Vega-Lite chart and references.
+For the lazy random walk on a finite connected graph, we review the bound on the mixing time \(t_{\mathrm{mix}}(\varepsilon)\) in terms of the spectral gap \(\gamma\) and the minimum of the stationary distribution \(\pi_{\min}\), and compare its sharpness on cycles and complete graphs. The paper doubles as an example of writing a paper with Lunascape Docs: theorems and proofs, a Mermaid figure, a Vega-Lite chart and references.
 
 **Keywords**: random walk, mixing time, spectral gap, Markov chain
 

@@ -31,27 +31,25 @@ $$
 
 ## 2.3 例に用いるグラフ
 
-```tikz
-\begin{tikzpicture}[scale=1.1, every node/.style={circle, draw, inner sep=2pt, minimum size=14pt, font=\scriptsize}]
-  \foreach \i in {0,...,5} {
-    \node (c\i) at ({90 - 60*\i}:1.2) {\i};
-  }
-  \foreach \i [evaluate=\i as \j using int(mod(\i+1,6))] in {0,...,5} {
-    \draw (c\i) -- (c\j);
-  }
-  \node[draw=none, font=\small] at (0,-1.9) {$C_6$};
-  \begin{scope}[xshift=4cm]
-    \foreach \i in {0,...,4} {
-      \node (k\i) at ({90 - 72*\i}:1.2) {\i};
-    }
-    \foreach \i in {0,...,4} {
-      \foreach \j in {0,...,4} {
-        \ifnum\i<\j \draw (k\i) -- (k\j); \fi
-      }
-    }
-    \node[draw=none, font=\small] at (0,-1.9) {$K_5$};
-  \end{scope}
-\end{tikzpicture}
+```mermaid
+graph LR
+  subgraph C6[円グラフ C6]
+    direction LR
+    c0((0)) --- c1((1)) --- c2((2)) --- c3((3)) --- c4((4)) --- c5((5)) --- c0
+  end
+  subgraph K5[完全グラフ K5]
+    direction TB
+    k0((0)) --- k1((1))
+    k0 --- k2((2))
+    k0 --- k3((3))
+    k0 --- k4((4))
+    k1 --- k2
+    k1 --- k3
+    k1 --- k4
+    k2 --- k3
+    k2 --- k4
+    k3 --- k4
+  end
 ```
 
 **図 1.** 円グラフ \(C_6\)（左）と完全グラフ \(K_5\)（右）。円グラフは直径が大きく混合が遅い。完全グラフは 1 歩で一様に近づく。
