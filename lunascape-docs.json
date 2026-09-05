@@ -1,0 +1,4 @@
+{
+  "title": { "ja": "Lunascape Docs サンプル", "en": "Lunascape Docs samples" },
+  "roots": ["spec", "paper"]
+}
