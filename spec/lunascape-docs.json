@@ -1,0 +1,10 @@
+{
+  "id": "lunascape-docs-sample-spec",
+  "title": { "ja": "機能仕様書（サンプル）", "en": "Functional Specification (sample)" },
+  "description": { "ja": "架空のノート同期サービス「Orbit」の機能仕様書。要件表、Mermaid の図、API 表、設計判断の書き方の例。", "en": "A functional specification for a fictional note-sync service, \"Orbit\": requirement tables, Mermaid diagrams, API tables and a decision record, as examples." },
+  "startPage": "README.md",
+  "defaultLocale": "ja",
+  "locales": ["ja", "en"],
+  "tree": { "showFileNames": false, "showDocumentIcons": false, "showFolderIcons": false, "showItemCounts": false, "showGuides": true, "density": "comfortable" },
+  "editor": { "defaultMode": "visual", "showEditButton": true }
+}

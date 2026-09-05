@@ -1,0 +1,10 @@
+{
+  "id": "lunascape-docs-sample-paper",
+  "title": { "ja": "論文（サンプル）", "en": "Paper (sample)" },
+  "description": { "ja": "数式、図、グラフ、参考文献を含む短い論文の例。「有限グラフ上のランダムウォークの混合時間について」", "en": "A short paper with equations, figures, charts and references: \"On mixing times of random walks on finite graphs\"." },
+  "startPage": "README.md",
+  "defaultLocale": "ja",
+  "locales": ["ja", "en"],
+  "tree": { "showFileNames": false, "showDocumentIcons": false, "showFolderIcons": false, "showItemCounts": false, "showGuides": true, "density": "comfortable" },
+  "editor": { "defaultMode": "source", "showEditButton": true }
+}
