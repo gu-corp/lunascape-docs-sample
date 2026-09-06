@@ -9,7 +9,7 @@ navigation:
 
 ```mermaid
 flowchart LR
-  REQ001[REQ-001 10 秒以内に届く] --> PUSH[/notes/push]
+  REQ001[REQ-001 10 秒以内に届く] --> PUSH["/notes/push"]
   REQ002[REQ-002 再接続時に送信] --> QUEUE[端末側キュー]
   REQ003[REQ-003 競合の検出] --> VERSION[版番号の照合]
   REQ004[REQ-004 自動解決] --> MERGE[3 方向マージ]
