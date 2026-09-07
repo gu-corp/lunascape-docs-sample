@@ -18,4 +18,4 @@ For the lazy random walk on a finite connected graph, we review the bound on the
 5. [References](references.md)
 
 > **About this document**
-> A short expository paper written as an example of what Lunascape Docs can carry. The mathematics follows a standard textbook (reference [1]); the authors and affiliations are fictional. Pages without an English edition are shown in Japanese.
+> A short expository paper written as an example of what Lunascape Docs can carry. The mathematics follows a standard textbook (reference [1]); the authors and affiliations are fictional.

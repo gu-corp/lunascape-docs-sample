@@ -27,4 +27,4 @@
 5. [Decisions](05-decisions/README.md) — [ORB-ADR-0001, the choice of sync method](05-decisions/0001-sync-method.md)
 
 > **About this document**
-> A fictional specification written as an example of what Lunascape Docs can carry. No such product or company exists. It shows one folder per chapter, tables, diagrams (Mermaid), code and translations in use. Pages without an English edition are shown in Japanese.
+> A fictional specification written as an example of what Lunascape Docs can carry. No such product or company exists. It shows one folder per chapter, tables, diagrams (Mermaid), code and translations in use.
