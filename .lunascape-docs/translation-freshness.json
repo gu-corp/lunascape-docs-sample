@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ar/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ar",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "481a45a76017f596127d3de7df0b0e58ccf1b2186194de5a5eb2fca850789380",
+      "updatedAt": "2026-09-13T08:19:46.538Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/bg/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bg",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "54324db101d94bf0ca42f3b374b50dda8ba92abeb91d566563b2348aa08eb79e",
+      "updatedAt": "2026-09-13T08:19:56.830Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/bn/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bn",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "5dcaf1e747d4600278b6882550a799a837d9d071f80c50c8551bd044c3e5933b",
+      "updatedAt": "2026-09-13T08:19:54.454Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/cs/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "cs",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "daea08c6afd137243f6d8988bd9d00ba153106f94f5b2bbcdea17d238d8d1d2f",
+      "updatedAt": "2026-09-13T08:19:32.895Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/da/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "da",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "c7bb2846f0ad4c52afd275a9aaaf2f91660b0711126645c97d9c0dd9f98a0aca",
+      "updatedAt": "2026-09-13T08:19:37.489Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/de/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "de",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "043b5942f69202a046e774e312980812416e7eddba98c2180757a94cac052ca1",
+      "updatedAt": "2026-09-13T08:19:23.113Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/el/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "el",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "23c06f42ce2ab4dc4cc09acbadf3a72ba596b3ffb91ac07a547d411ce271f1be",
+      "updatedAt": "2026-09-13T08:19:57.535Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/es/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "es",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "702b081f58b82da0582176d31e99853df97ec2c508824a80a703f68512fcb509",
+      "updatedAt": "2026-09-13T08:19:24.518Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/fa/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fa",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "c53dd7b09157972b9cf3ec32230b9a196d11d92580a71400cc3b3d4d75547264",
+      "updatedAt": "2026-09-13T08:19:49.635Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/fi/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fi",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "f686c442b83dd90e6dca5ea83926c87572cd977c4d66362e941f196ec6dcde36",
+      "updatedAt": "2026-09-13T08:19:41.056Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/fr/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fr",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "751fc611876197d224183987b96f2f8bdcf668f54db8e2194b59b15556671d73",
+      "updatedAt": "2026-09-13T08:19:23.630Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/he/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "he",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "be3e91ab98923a34c45df86ee922fcf20f2a19aeb34f70e71ae63250054543b0",
+      "updatedAt": "2026-09-13T08:19:51.025Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/hi/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hi",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "2fe87286b27c847bc9b37e90063d97927cb7da8100d2f59aad35816aa8074f24",
+      "updatedAt": "2026-09-13T08:19:50.483Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/hr/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hr",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "7639b7177ef7d8a9c69349c7c8c9847ee0fa25f0162a5c771a1babbb5e0dee85",
+      "updatedAt": "2026-09-13T08:19:57.525Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/hu/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hu",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "6902921fa03142292f24d636844892242627b314be2b8a62e4f1f57054b527f3",
+      "updatedAt": "2026-09-13T08:19:55.242Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/id/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "id",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "24e76885b46d6041d272b320ee4c3277a1462cecee30edda7b62a5c6b0de9f25",
+      "updatedAt": "2026-09-13T08:19:41.044Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/it/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "it",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "fa22a125427ac53831219788f48883b6e1f6e73a8f75ca7b73e94a5cc42a9a2a",
+      "updatedAt": "2026-09-13T08:19:28.489Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ko/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ko",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "0f158f21d72aa667ecd887ac13cc7432ed14360a97fc060dfbba66634dd88a61",
+      "updatedAt": "2026-09-13T08:19:25.006Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ms/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ms",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "f94d0d074e5f300578bbf2633fcfa2da1ba4025bebd93382abc901fc5b4efbb0",
+      "updatedAt": "2026-09-13T08:19:46.354Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/nb/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nb",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "0b24a6baa3df57ed1a71fa6a909a83692ec81ce93e0213f40b3640cacd877625",
+      "updatedAt": "2026-09-13T08:19:39.014Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/nl/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nl",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "498571ee8ce42d710c13ce8b3f1605a681c656a5d1e896fca823b207b681257b",
+      "updatedAt": "2026-09-13T08:19:34.481Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/pl/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pl",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "8a5dc3c40e88c33b3ec913d78ee7c63211d6ff62326f0f490704e8c8a128ff30",
+      "updatedAt": "2026-09-13T08:19:32.152Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/pt-BR/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pt-BR",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "5e28e633b1a5ef9c147dc644925fa52c62ac33a6054cb1452f115859543ab4f5",
+      "updatedAt": "2026-09-13T08:19:30.255Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ro/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ro",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "09dd4bc5a72236a889756e7e56f2827ab4d25780080ba1dbd06bb958da7a5043",
+      "updatedAt": "2026-09-13T08:19:53.137Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ru/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ru",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "e65b2ccce5326f444950050eb59c6c3063eedaa64b1d7647d0a82133d9df676c",
+      "updatedAt": "2026-09-13T08:19:30.835Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/sv/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "sv",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "b9ff940b5915a995e2612de3641227ed0b966317ddca40f2ced004105b151da3",
+      "updatedAt": "2026-09-13T08:19:35.713Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/th/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "th",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "75d8363afd447c208cc0606e8e4c719cd607ae68652d709cea8085193d6b14a8",
+      "updatedAt": "2026-09-13T08:19:47.191Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/tr/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "tr",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "2d3a58046807f8372b357b16df3b4544c7b0bc7c414dc5b94aa5a487896d79db",
+      "updatedAt": "2026-09-13T08:19:32.141Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/uk/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "uk",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "e56a3fa0ba8ba6392696c9dc1d9ebd17ffbca80b9103e23aec4d6682109c579b",
+      "updatedAt": "2026-09-13T08:19:40.588Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/vi/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "vi",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "818d26ed4a7b08495cb89aed52558bfa3c908d677573c7638702756949896d39",
+      "updatedAt": "2026-09-13T08:19:43.365Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/zh-Hans/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hans",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "951e70a155d29421e268f88ad1d559267af60a1d12b6b14948884a3cc5af32ef",
+      "updatedAt": "2026-09-13T08:19:24.865Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/zh-Hant/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hant",
+      "sourceHash": "532fa73d2c3e8696a37b76b16243ad40089a1fd8aa0449dfc23c307e73743534",
+      "targetHash": "cef435da44fef97eb7559cbc8e207e909c1eac6bd397c032f510aa4f0399fec6",
+      "updatedAt": "2026-09-13T08:19:24.470Z"
+    }
+  ]
+}

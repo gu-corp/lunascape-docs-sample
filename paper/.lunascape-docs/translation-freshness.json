@@ -1,0 +1,1733 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/ar/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ar",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "56bd28f374499d96b0d6c79c343cdb203c0735ce7b82ede5c7d9a574bc65e213",
+      "updatedAt": "2026-09-13T09:53:25.490Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/ar/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ar",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "6dceda0670d8cf370a08e22f413ac62dcd80ea03e85b3ba89ddc2fa4066d69d6",
+      "updatedAt": "2026-09-13T09:53:28.683Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/ar/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ar",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "8ad9ec137cffa2a50ad44218ecebdf7f7028949bde8ecd90b54f26433aed5e49",
+      "updatedAt": "2026-09-13T09:53:38.271Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/ar/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ar",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "3a14310c3f169b2f711ad403772b659a437dd0df853bd1628c85dcd80c80d28a",
+      "updatedAt": "2026-09-13T09:53:38.253Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ar/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ar",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "f0da71a54565d86a8aeb2c1666f963210a27c150c2a848973278bb546f883b46",
+      "updatedAt": "2026-09-13T09:53:41.600Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/ar/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ar",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "01b0f0033b7d4965211ef65b9c64109a18a231ef909061e5f0cc6995a34e0322",
+      "updatedAt": "2026-09-13T09:53:36.843Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/bg/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bg",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "f1500bcd190308b4c3855771c03c756293b5c93d49bff97eee73398469bc09f9",
+      "updatedAt": "2026-09-13T09:57:37.651Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/bg/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bg",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "07b943abc5c51f9c8379a9f853d41cc9fcd4059102fb0fdb1ece8d15f9706f01",
+      "updatedAt": "2026-09-13T09:57:46.324Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/bg/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bg",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "5abe1bf20c940abd6da2e482f978ec757373c51d343f264b466d8d537538d8f0",
+      "updatedAt": "2026-09-13T09:58:17.537Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/bg/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bg",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "3e33b16707f9b5b95cd0e4ee6c2be62d20ab6de0e2a4493d12fd84a18c2edbe4",
+      "updatedAt": "2026-09-13T09:57:55.433Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/bg/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bg",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "6640a5542a65c5e144c8a5063f008e2e6473c6141376ee0a267d3c32cc3d9039",
+      "updatedAt": "2026-09-13T09:57:54.802Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/bg/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bg",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "7d3bd855c011651d6a7c9ff3474db8b1365e4b595bd0d5610cd7f09368fdefd0",
+      "updatedAt": "2026-09-13T09:57:54.181Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/bn/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bn",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "045e62b45c51fb1450d778aa3b2f60a2d28d168eeea01e9d2f802707359b1709",
+      "updatedAt": "2026-09-13T09:55:39.527Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/bn/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bn",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "71429b0349206f5679cb71f10ca69dd56fec3b8632d3813f101861da0c9e3082",
+      "updatedAt": "2026-09-13T09:55:47.805Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/bn/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bn",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "418cabb0f106cbc2875c1b284bd4887ab2cadc28037624c2ccb968a62121e6db",
+      "updatedAt": "2026-09-13T09:55:55.557Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/bn/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bn",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "7eab66c9dbf51a3ecbada116e9fd1926f8ce799db2771b6efede6142548af3ab",
+      "updatedAt": "2026-09-13T09:55:48.537Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/bn/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bn",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "0ea2f94503f2acce46ee563bb091d61fbaba31ff510c3219fde573aa5eb5bef4",
+      "updatedAt": "2026-09-13T09:55:58.771Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/bn/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "bn",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "a5ddb76bc841ccafce826c2349e98b0ecf0ce48015332f69e27d0980fb2dd0fe",
+      "updatedAt": "2026-09-13T09:55:55.452Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/cs/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "cs",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "83ebefeaceb36d3d97c144d716face50c4ecba92f243d992f5f9e47c1edbb0d9",
+      "updatedAt": "2026-09-13T09:48:07.472Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/cs/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "cs",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "50e3ff94259617e808e24476fda3429ddc86cd612732b31c6165b579fba20ccc",
+      "updatedAt": "2026-09-13T09:48:13.651Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/cs/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "cs",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "81a7218708f6b484d52970481617993ae7426845276927ba542a36fe313a91fe",
+      "updatedAt": "2026-09-13T09:48:23.074Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/cs/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "cs",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "927a2e7a842d41ca1ad31b91d56a83d13062b45a8ecb70dae9fab1e0723df6d8",
+      "updatedAt": "2026-09-13T09:48:13.871Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/cs/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "cs",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "ab033f3c4f70c8da1f1482b3b98eab6d1069c8fb580c8d6b23b89c4566584957",
+      "updatedAt": "2026-09-13T09:48:23.951Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/cs/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "cs",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "8aeb3f8ccedbb9ef8fd55c41c048d50cdf570b00fb5020171cf906891a93bda3",
+      "updatedAt": "2026-09-13T09:48:24.147Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/da/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "da",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "186d4167f87a2a926c31ead4378c49d872606647ffd4f34efaa4b6275bbcef14",
+      "updatedAt": "2026-09-13T09:49:28.778Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/da/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "da",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "dd7abe52c188f85fed55b26a005bd0fd99488b97b08a8a58c591e643049b7894",
+      "updatedAt": "2026-09-13T09:49:32.359Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/da/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "da",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "c89b723f7428328b834f31bd35f1a311d8c7c63f996c250c7747354fcc33e008",
+      "updatedAt": "2026-09-13T09:50:00.012Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/da/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "da",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "7872278582ad970a65ac264cc7634bb24ae3ac121ab0856d74b14e23d9a18c4c",
+      "updatedAt": "2026-09-13T09:49:37.033Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/da/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "da",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "3a921931811db8329eee11a195979d21b690f962fc180d74f45d007e39716c67",
+      "updatedAt": "2026-09-13T09:49:43.338Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/da/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "da",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "e3635700c570fe7512040f17847d8b5462d7b28a14245d337328e5dcb1831ac8",
+      "updatedAt": "2026-09-13T09:49:40.645Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/de/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "de",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "069ddcbc51e2d42a9f754102f8aaa5046987c69cb69422e7ac7aa3f52e2e282d",
+      "updatedAt": "2026-09-13T09:44:45.304Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/de/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "de",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "7bdc16599503bd599db6622115da9f7b5f3c8a65c3c958e7816433fbd6bfefa5",
+      "updatedAt": "2026-09-13T09:44:51.669Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/de/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "de",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "096c0e4b78705e0ac93b73fba4c0232f6812ba00a16c170db88460588ac771c4",
+      "updatedAt": "2026-09-13T09:44:58.336Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/de/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "de",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "9899f2b325c245b76589cb997da27cdbde714c727b53a27db96bd377c0a10c67",
+      "updatedAt": "2026-09-13T09:44:50.069Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/de/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "de",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "14552b236189d0ba51df03e308626313854b281488620ff7f6de8b0988d8fb31",
+      "updatedAt": "2026-09-13T09:44:57.190Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/de/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "de",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "98b5d33ece4a30784fadbc198704990dd1679b87aa6b42f534b392a0a2466dc2",
+      "updatedAt": "2026-09-13T09:44:58.734Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/el/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "el",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "e078ac8019377a23fa440f9c1f5b70c4b0a6051e2477534d1be1c80bf2e8030b",
+      "updatedAt": "2026-09-13T09:57:13.112Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/el/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "el",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "35c359f751b4a8e421ec5af15c1de85b0c8e6b73933346f9804c0631578e1121",
+      "updatedAt": "2026-09-13T09:57:16.389Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/el/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "el",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "247a11c2144513c6003ca88bfb1b612e1b1c243e9bd04afd97b405c0bde89d49",
+      "updatedAt": "2026-09-13T09:57:37.004Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/el/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "el",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "2d3d2289ff100e13ea800aab53e1182d9898bbaf017473c7251dc66bc65c7c78",
+      "updatedAt": "2026-09-13T09:57:19.605Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/el/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "el",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "b8f5aa02409bb3fca77ba74fb135d81676dcdf419abb426124a796fc1d80a8f3",
+      "updatedAt": "2026-09-13T09:57:35.533Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/el/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "el",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "1047aa4390e06772e1d59a1afab488df2ce149673a5b91e5c36c899f92ba32c0",
+      "updatedAt": "2026-09-13T09:57:26.599Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/es/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "es",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "6fd189d1d2a628b9d5d925b6d4b987c217df5f74a47cfb77657346cc505bc3d4",
+      "updatedAt": "2026-09-13T09:45:30.575Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/es/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "es",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "e18cfca5fcf28ce480d98010e8eee6da56cf5332a1330e73ff272a00dabef10a",
+      "updatedAt": "2026-09-13T09:45:33.157Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/es/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "es",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "0fdc2298c2b2a8cf0c9f090381586dadd1d5c93b45dd5efc32cd44d5c3935d01",
+      "updatedAt": "2026-09-13T09:46:00.549Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/es/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "es",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "e0ee9b133b7c8762d232c7e08730003f78fb0fc4cbaf704b8748d604565d17a5",
+      "updatedAt": "2026-09-13T09:45:36.140Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/es/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "es",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "09213153e558bdfdb1e10be2376fb284c35af3ae77ad8ab50748c63ff468b159",
+      "updatedAt": "2026-09-13T09:45:44.558Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/es/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "es",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "7c59a16a9aac928217ed04bf410e5b479c9a6b9f458d8531917ff87770fac646",
+      "updatedAt": "2026-09-13T09:45:43.236Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/fa/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fa",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "58c2e25db0605091b0547c498c9039b08dde7ad4048f0d5901a064e24b03417f",
+      "updatedAt": "2026-09-13T09:54:39.517Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/fa/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fa",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "8203bb9ae431afeea3cdafa36b3c480b6c012a82d4a3b9830301b6b9b7904d30",
+      "updatedAt": "2026-09-13T09:54:42.143Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/fa/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fa",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "cdf23f02502a04c7c089796857b169387485d0aa941f9c574874a80906de40ed",
+      "updatedAt": "2026-09-13T09:54:54.172Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/fa/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fa",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "18859b0aa423c13d0b4c801ff5cc20b33f022825b1ee871b24f4a65d117db8bf",
+      "updatedAt": "2026-09-13T09:54:52.820Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/fa/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fa",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "30e8aef516ea52327d82ddaf871eb2b4302dcf9b02e7276e138c589bd99fd4df",
+      "updatedAt": "2026-09-13T09:54:59.948Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/fa/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fa",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "5ddd99dfb72e34e9cfc085c5ea3a20bd72fea20764d8313cf36cf8e34900dc70",
+      "updatedAt": "2026-09-13T09:54:50.826Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/fi/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fi",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "7b49c1a34c7f36d192e52efdbb1630f9a7d2c821099b92b53d5d703c7988ed7d",
+      "updatedAt": "2026-09-13T09:50:25.193Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/fi/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fi",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "a8b72639fc7c29dd45d63e21bfded300a96d2be37dc568439b5be48f9a25cafb",
+      "updatedAt": "2026-09-13T09:50:30.715Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/fi/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fi",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "98b83031120542133cbfc2a6f8d0841522799790f4d275ed0b9a35b401715534",
+      "updatedAt": "2026-09-13T09:51:00.923Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/fi/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fi",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "b7ffca12131ecfa01f014eafeaaf81e3d6d79fda5569f6e1aff54d0cb8fa710f",
+      "updatedAt": "2026-09-13T09:50:37.330Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/fi/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fi",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "90b7123ba679f2eee228f9cb17a578f110bc0579e5471c1d17d5745dcbad4bdd",
+      "updatedAt": "2026-09-13T09:50:42.862Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/fi/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fi",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "afbb73797fb5535350b8054347e1d3f2f39021097d80083db907f493f81e4a6e",
+      "updatedAt": "2026-09-13T09:50:38.948Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/fr/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fr",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "f72cafc9d7cf249202352efdf2b769a693973602c8c387cd3e4157c2e2264478",
+      "updatedAt": "2026-09-13T09:45:04.400Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/fr/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fr",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "4c272e7b88ef40926e1077f6ef3f179bb97c19328bd0ff0f289505e9706cea5f",
+      "updatedAt": "2026-09-13T09:45:12.816Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/fr/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fr",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "d5460e7fdf1719f5be7901c4fab3063a64e845c547b3226c74e1d61bf4e65806",
+      "updatedAt": "2026-09-13T09:45:21.472Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/fr/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fr",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "3fb915f01960108526433c25ee3ecde6857bfe9139284ed4c44bd01367d12b40",
+      "updatedAt": "2026-09-13T09:45:10.826Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/fr/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fr",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "f3415f20716b9c143ec2659d0de6cead53fe49717cad42a53bdd9f66f827e465",
+      "updatedAt": "2026-09-13T09:45:16.052Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/fr/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "fr",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "4fb8de6a530d15404dcb0b3e510efeeacd00f61ecf325701bb9e4f4be6e7ab41",
+      "updatedAt": "2026-09-13T09:45:22.433Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/he/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "he",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "0f42fbcf3a32a54ddf5f3c24283d459eb0bed944c899888c3267e71a21354f10",
+      "updatedAt": "2026-09-13T09:54:17.215Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/he/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "he",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "c162a1a962a08f2f549b76100d34565da9670c58d60aec5fb201c7b7f523a091",
+      "updatedAt": "2026-09-13T09:54:17.256Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/he/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "he",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "54928d8a4e56dd1b07e158207626ddda940c78df97314393ffa055dc4eaba366",
+      "updatedAt": "2026-09-13T09:54:14.080Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/he/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "he",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "3f76014dab47309886dd19682fe5edb1dd16cc3070c43f2e2dd58e59367c5ad9",
+      "updatedAt": "2026-09-13T09:54:11.698Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/he/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "he",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "aa6742af9055f6b2fafbfd3686294e2d28bcc9467b6e5c34258dded00ac454e9",
+      "updatedAt": "2026-09-13T09:54:32.765Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/he/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "he",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "95d123e2bd8bcc23ec45b37bd1df6a28ed11b2d015de7a0459d5ae907c7199f7",
+      "updatedAt": "2026-09-13T09:54:22.738Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/hi/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hi",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "14ad73253ea38d5b162b009efce2131df0840fb6e8abb7b8d62cf02ad9d1f6dc",
+      "updatedAt": "2026-09-13T09:55:10.597Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/hi/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hi",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "568b7c412f95b3903f168fcb5faac4cd302daebeba4a64a9a47d629a326da0d5",
+      "updatedAt": "2026-09-13T09:55:16.355Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/hi/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hi",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "55397fae05cc30cd2e9c5207f1012c1cfac470a5bcad5a3dca20a9dba28553e4",
+      "updatedAt": "2026-09-13T09:55:22.464Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/hi/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hi",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "aa7fac9d850ec01d85ccdb016f18f75e26b558a2498a41cf6f11caa9a3eabbc8",
+      "updatedAt": "2026-09-13T09:55:16.866Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/hi/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hi",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "86c722cc024aa041c9bda998d2daedaa21e09bfb5e20251e34dbdbd626428ea2",
+      "updatedAt": "2026-09-13T09:55:29.449Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/hi/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hi",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "cae6c67d658931af23ab0fe090c82ec968da30254ed4f024da205afbace0b6ce",
+      "updatedAt": "2026-09-13T09:55:24.937Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/hr/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hr",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "4176f89d920fd8dec39ba4ac59341d8ca1d3e598e88e3ded66234921e775b21c",
+      "updatedAt": "2026-09-13T09:58:10.776Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/hr/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hr",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "3639487f4fd2affbc9c1aefe2e3786c9ec91e25831d45dbde77abe42155722a6",
+      "updatedAt": "2026-09-13T09:58:16.089Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/hr/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hr",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "60858e012ff0991744e7526c3bf074b7e5d3b0a03add91b9f0ee8d440016bd4f",
+      "updatedAt": "2026-09-13T09:58:23.409Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/hr/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hr",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "5ab2f04bee2eff4348c62547fcc15d01599d07e06abe46ba276babf17eecff95",
+      "updatedAt": "2026-09-13T09:58:27.470Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/hr/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hr",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "c95fe23f3ce9b0a27f8139add431ee117b6563f36998211b8a27d0c473686044",
+      "updatedAt": "2026-09-13T09:58:31.992Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/hr/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hr",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "1c615f359be4055bb64868a8778c6d68afb9f1f928ffda40d78de425bed58cba",
+      "updatedAt": "2026-09-13T09:58:25.766Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/hu/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hu",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "911e85de373dcd53245ca6bf4d9b14c4873ab6e1170ddcab5ec1858d6c7d3d93",
+      "updatedAt": "2026-09-13T09:56:06.372Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/hu/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hu",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "b2af3115d60780d3fadf7971c2e91ff10088928aa1965797f6c8644b183093af",
+      "updatedAt": "2026-09-13T09:56:17.493Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/hu/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hu",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "f3c95c85184b08f7b63e68807640e564724fe392b3017b828cf8412220755109",
+      "updatedAt": "2026-09-13T09:56:43.848Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/hu/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hu",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "50d73b854573df8257c2a6535da35dcbe2cf9bff6c28ac1703f5b77da1257be4",
+      "updatedAt": "2026-09-13T09:56:16.123Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/hu/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hu",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "f03c25533cf21fe9f60594257e94e6d11a09b6b6e93a6ca7460991299650aee5",
+      "updatedAt": "2026-09-13T09:56:24.717Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/hu/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "hu",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "53b75752ed67e43983e4f04ce3bf037e29e41dc3f318948ba3f6ed51dfbccdfd",
+      "updatedAt": "2026-09-13T09:56:23.926Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/id/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "id",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "96379cc8db2af1a37d76b7f2e5be5f1e280915a5d2b42db934c8c5c9ac450fdb",
+      "updatedAt": "2026-09-13T09:51:23.029Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/id/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "id",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "182ec81ebc239629561431aa46d0afe5a8056e41ea6744c7e6135dd6b86e8075",
+      "updatedAt": "2026-09-13T09:51:28.141Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/id/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "id",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "aba868cc315bb417ab3e9870683e9796957437240a475d9d172e279cde411861",
+      "updatedAt": "2026-09-13T09:51:38.857Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/id/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "id",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "0a74e01d85ed1f41caf1474a089834a7b4ca14a4ae0063f7995f55d909a00d89",
+      "updatedAt": "2026-09-13T09:51:28.017Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/id/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "id",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "72ae77103e93abba375e6ca7848f245fdde7321f889361c8eaf29114ea4ba500",
+      "updatedAt": "2026-09-13T09:51:34.778Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/id/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "id",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "f44bdfb478e3f0b56c6340e4829af60d9bf0e0e38096f8efbdf2bb6cfa08223a",
+      "updatedAt": "2026-09-13T09:51:35.933Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/it/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "it",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "ff5039448e07c94042a71d88b394ddb5dd8feef4a5a2d891dd9928d2c1b1056f",
+      "updatedAt": "2026-09-13T09:45:51.885Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/it/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "it",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "6cf5907f238bb76503c082641f8a5c0dd10cce16242bfc0d7e3795abc14a33b9",
+      "updatedAt": "2026-09-13T09:46:02.452Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/it/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "it",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "91f810db6106ae97c57fd7f45a369adb686bd93a213e243652f3dda2ad3dc445",
+      "updatedAt": "2026-09-13T09:46:10.202Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/it/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "it",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "0c51ec3f9ff551f27272c4de5a222f134917042bf1aea3c1dc87ee0821086002",
+      "updatedAt": "2026-09-13T09:46:07.040Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/it/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "it",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "f7b93da02123898f2380196d58eac60645188e6b800167d6a5de13f6c76a600d",
+      "updatedAt": "2026-09-13T09:46:14.968Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/it/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "it",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "415c06e90f3ccf176e2f39b3e1f765e8ae13834a2c7ddf1f81a55d16ec9572e6",
+      "updatedAt": "2026-09-13T09:46:12.321Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/ko/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ko",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "d42b4e1b7a2a7da1b0ea49abd9bc1df9ababfb0a80b88a061105267695d47d90",
+      "updatedAt": "2026-09-13T09:44:19.110Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/ko/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ko",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "dced95f8423654d91576233c81e6c5d7a50012128f4ec8a09931662bf280db87",
+      "updatedAt": "2026-09-13T09:44:25.388Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/ko/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ko",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "ba6190fd3fc7631cb5c3cb954807fd30e17f25770e04ba6048fa6d30eba6f36c",
+      "updatedAt": "2026-09-13T09:44:32.700Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/ko/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ko",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "bddbc763e3bbe34e14910695b7ec83c6a5a7565d0a3cfb5daa4cb2c73738732b",
+      "updatedAt": "2026-09-13T09:44:34.213Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ko/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ko",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "6ef68a0ccf922107aae0948ef31d7b60f2763b29aa3ccface700a2d42b976c3c",
+      "updatedAt": "2026-09-13T09:44:36.261Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/ko/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ko",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "75232d2704e2c4cc53fbaaaa157e81744b46f37d6fca2a8e6cb172427bbb1cba",
+      "updatedAt": "2026-09-13T09:44:34.159Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/ms/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ms",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "8ecc2d340da1618c4a6bcd41bdbff763f5f1f992687119d7d163f73bf4b1e234",
+      "updatedAt": "2026-09-13T09:52:54.307Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/ms/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ms",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "b32210c055cac2f513432e4974456c95cb5c9180fe9026cf182dc8a492fa5506",
+      "updatedAt": "2026-09-13T09:52:59.591Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/ms/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ms",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "a1210f971eb4c239beee8914091e0cf6be52ddc8b932801f9cf8c41b3e24e89d",
+      "updatedAt": "2026-09-13T09:53:23.015Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/ms/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ms",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "d367588c97522f1a39a9d0a6ebd41e9d5b39e9e82f85cd26dd3e5b95b95f0e34",
+      "updatedAt": "2026-09-13T09:53:08.585Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ms/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ms",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "f4c9de370861ae682a078c5ad628ecc0aafceb53a6275825950d588f252764cb",
+      "updatedAt": "2026-09-13T09:53:09.199Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/ms/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ms",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "ac4cf334ef100ec0cd8743801c87691e6a30a63a5b94848e7f20e0d9dfe7d8cf",
+      "updatedAt": "2026-09-13T09:53:07.538Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/nb/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nb",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "7e18471ecfe6fea7a306da1e8911cd1e80e5daf44c23c200231022f40b32bbe4",
+      "updatedAt": "2026-09-13T09:49:52.818Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/nb/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nb",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "d57bacebdaf11914fa20b387990de85d33e504b1ebdb8377dca0c9d66d558d5f",
+      "updatedAt": "2026-09-13T09:50:01.533Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/nb/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nb",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "3d799dbfc7e9cb12225e65f4ce08c0a76e96e9eee2c3d0087122a353660e544d",
+      "updatedAt": "2026-09-13T09:50:16.642Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/nb/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nb",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "994cb0838dd3eaad28289aeec6e471f12822a578daa166b9a9e075b9f55d4c59",
+      "updatedAt": "2026-09-13T09:50:07.137Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/nb/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nb",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "cb4065eab4a59d4872e8d0f5274d52f4a2d410eae525678b1bf5751c018e87c8",
+      "updatedAt": "2026-09-13T09:50:14.221Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/nb/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nb",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "86b0e475a2133016bdeed2ffddf4357c4ab4ebfb66a458a57938925b3545844c",
+      "updatedAt": "2026-09-13T09:50:09.925Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/nl/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nl",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "6b4c081b7fd9d3ed0ae0a9ebe5dd2179a629ba92f3ae9f3fb16ac515f5c055f7",
+      "updatedAt": "2026-09-13T09:48:30.856Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/nl/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nl",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "21024b8a3d4f98740037e89e8aa61cba1440586217f52615a4d2ad742c625dce",
+      "updatedAt": "2026-09-13T09:48:41.095Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/nl/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nl",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "f098a9c0458557a3f8b85471d818767e82669d20b2fa623b96f75e94a4e845e2",
+      "updatedAt": "2026-09-13T09:49:03.758Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/nl/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nl",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "1880a07407811e1a6275e684fe9263d26a95b114695719765a11a18875e5a4db",
+      "updatedAt": "2026-09-13T09:48:39.753Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/nl/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nl",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "be8bf6ba6384044b340c1c4e2756e0ba07957d7741527a700c6e4025cf9f4d0c",
+      "updatedAt": "2026-09-13T09:48:44.721Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/nl/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "nl",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "7154b9f9c3461389f30d496b1bd6c66cb21f1dd284cde076a7750018eba8c2ef",
+      "updatedAt": "2026-09-13T09:48:47.390Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/pl/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pl",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "31fe209aa7ece8b7d60afda5e32030cc156220a34b7038d60c394a2d71a12807",
+      "updatedAt": "2026-09-13T09:47:40.579Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/pl/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pl",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "0bcc3a244093e14c7eefd24a02066aa2ae1bab25f4f139407fec8baad71b0c7b",
+      "updatedAt": "2026-09-13T09:47:44.185Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/pl/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pl",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "596df8542fe7ac2623a1785bafbda08227395c6f0654a2f86aeb6d659ca494ff",
+      "updatedAt": "2026-09-13T09:47:54.347Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/pl/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pl",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "5013ba523d2dc2bdf10bbbfa1bbfab6d0b497a7732b442dc75391110b5cf761a",
+      "updatedAt": "2026-09-13T09:47:50.432Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/pl/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pl",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "1ff8811be892237c2ce422fbe311dfad76dca3e31ecb78dc5b898e5467e203a6",
+      "updatedAt": "2026-09-13T09:47:54.402Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/pl/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pl",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "457d656647cc0ff8fa57352e66c27d9c1da92e4e5e97c0272058bd31abb2b43d",
+      "updatedAt": "2026-09-13T09:47:55.731Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/pt-BR/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pt-BR",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "5ef83a1064b3bd1d0474ba8e0c196f190efd539605018b117d47f33fb1f786f2",
+      "updatedAt": "2026-09-13T09:46:21.402Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/pt-BR/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pt-BR",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "0924bbc7f16fd456bac5f2dfce8cdeda254b7d9cc2c728560a82711a1b02e874",
+      "updatedAt": "2026-09-13T09:46:26.896Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/pt-BR/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pt-BR",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "c2cf4553356fd227ebad1eeddd4b7dc020ca4517678b25edf33416599f0d006a",
+      "updatedAt": "2026-09-13T09:46:37.979Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/pt-BR/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pt-BR",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "a5a3364c84529da343bc7b2c7e6c2dbeda5265531974fb4eb2a3f651930b5965",
+      "updatedAt": "2026-09-13T09:46:30.111Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/pt-BR/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pt-BR",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "5da9260ebc0590e2151a422cb7ecf096edde7d8e1db47a6dac6b69c1c97a0ca8",
+      "updatedAt": "2026-09-13T09:46:34.395Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/pt-BR/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "pt-BR",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "0ad2eabbf2024fa2a3bddbef6f9780742fdca045af993b85051cf524f8371c94",
+      "updatedAt": "2026-09-13T09:46:36.970Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/ro/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ro",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "d028fcf270fc96882c870f7d8f8250923deb5b53dc3eecdd948ef16153345ee7",
+      "updatedAt": "2026-09-13T09:56:33.498Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/ro/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ro",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "415652fcf8e36397dc6de13eedd8eeaadf2c91ed976d82de5ac0389383e37c37",
+      "updatedAt": "2026-09-13T09:56:41.144Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/ro/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ro",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "cab0e6f9103fa17f4b1aebc67bbf66cc31a5a9a9e02813cd84e25ebc90d1c59d",
+      "updatedAt": "2026-09-13T09:56:50.443Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/ro/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ro",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "5e74c21efbb3ba523f6e3c586e0a2cc4eb167d1a6148e95794ab6f7833688832",
+      "updatedAt": "2026-09-13T09:56:48.133Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ro/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ro",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "751009d8e1f379c848f7441aea1a860db9725f14912889b2f5a6f8423b448325",
+      "updatedAt": "2026-09-13T09:56:55.300Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/ro/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ro",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "edf0798555c1b91b47fec2e7c7c5d05f14476aca808fd31af61ebdb40c273e3a",
+      "updatedAt": "2026-09-13T09:56:52.100Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/ru/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ru",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "2ae887430388d66719cba3014f6f43f6b0371229218faa1f57c188fabd70bc8d",
+      "updatedAt": "2026-09-13T09:46:43.948Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/ru/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ru",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "bf3fe98bce581b20f618154b8828f4dc269f0953c9d9d75ced07059bd7667762",
+      "updatedAt": "2026-09-13T09:46:50.027Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/ru/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ru",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "50a8ce07f71cd0e4b1cf34034a9d53e041c45793d33cc2346ac80d7fb3ebb2dc",
+      "updatedAt": "2026-09-13T09:47:08.297Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/ru/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ru",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "f64f060777a0f86881fd84c1ed8c395fc48ee1e305d6c34e41d1c39f30d3b082",
+      "updatedAt": "2026-09-13T09:46:51.674Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/ru/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ru",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "894e03d1f6e4c6a4d43b241fbd138087ff5ee03b55b612f4d38731806f4f82fe",
+      "updatedAt": "2026-09-13T09:46:56.281Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/ru/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "ru",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "87c587a112db34f8c19629078f5c7141b9e90ba6518f1d9542722c197edc8008",
+      "updatedAt": "2026-09-13T09:46:57.392Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/sv/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "sv",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "5cd1164a7701cf7c367360d9f49e775372ca070febd786ef7f9b6a9ef45f4943",
+      "updatedAt": "2026-09-13T09:48:56.761Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/sv/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "sv",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "5cd270ac67c4e0a5c00eee0d1a3260ab3c6c877401bb0a82f75d88f53f49da30",
+      "updatedAt": "2026-09-13T09:49:03.415Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/sv/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "sv",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "d350cd73f145f9f21a3b8e60ede647e1ace473c4e8a25c20735973bc89cb2c57",
+      "updatedAt": "2026-09-13T09:49:22.300Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/sv/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "sv",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "ddb07c1e6865f73a079d8bf0fac778719c31ee10e3d352036bca929a58d9ba47",
+      "updatedAt": "2026-09-13T09:49:11.652Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/sv/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "sv",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "9bac62bec261d31c871c635975220f6b5c5ae1ed6b8a229c8792c0ac1558d3eb",
+      "updatedAt": "2026-09-13T09:49:17.552Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/sv/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "sv",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "a266b57e6c3aaa17a272981431a1a0231416f53d01bda587909665891ef197c0",
+      "updatedAt": "2026-09-13T09:49:13.347Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/th/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "th",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "d5b581406795e12fffc33a3e01c2ddc1f798e1aa07beaa49c5bd1d7f951fdc7a",
+      "updatedAt": "2026-09-13T09:52:20.744Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/th/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "th",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "79a35cebf3d8d72d6d4f5a1df927a35c4c11a229fcccc8feb9aa27f889c22887",
+      "updatedAt": "2026-09-13T09:52:40.563Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/th/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "th",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "586dd3bd56f06894652755047d5340a0db860521fd3031a1170df9dc1ad337cf",
+      "updatedAt": "2026-09-13T09:52:52.967Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/th/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "th",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "ee94975974e8ab6fe92533f1248ca2762f1a25621c23fb2c3d610b03e0dfc7dd",
+      "updatedAt": "2026-09-13T09:52:28.676Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/th/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "th",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "c3f929879ff90eba307a3f09fae9210ac59fded67172d3a6f11bae08d6af3f8f",
+      "updatedAt": "2026-09-13T09:52:45.951Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/th/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "th",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "d176fe306e979b5764f359394e2bda937ef1d033116bf7f3badd5009356439e7",
+      "updatedAt": "2026-09-13T09:52:37.987Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/tr/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "tr",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "701fbc5f58dee3d3bb852b714105a12d182b9385a41b76285f6940acf0fcd591",
+      "updatedAt": "2026-09-13T09:47:10.734Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/tr/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "tr",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "4a0901e67fd2156cadc67b3db77518c4bf240562c8cfa0c7e7508d63e555ba42",
+      "updatedAt": "2026-09-13T09:47:16.754Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/tr/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "tr",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "5bafb2e4a6e960aeadbfb280ccde56ec080559dba19b485ba34904b607198443",
+      "updatedAt": "2026-09-13T09:47:36.578Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/tr/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "tr",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "07876f1353baf0dc0aa0824c14d0b014bed265b092547a91ba6833fbced2f8d5",
+      "updatedAt": "2026-09-13T09:47:25.418Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/tr/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "tr",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "2d2a3c33a0d553e986e40e0709a57871cfc2219d10d94929b208b723d4efb7fe",
+      "updatedAt": "2026-09-13T09:47:26.353Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/tr/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "tr",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "1dd941531ce0836eaeec819630968c255bc84851c8af3aa4588c3fbfc792f8d7",
+      "updatedAt": "2026-09-13T09:47:24.066Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/uk/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "uk",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "685491c198eefb3955ab6d01931eb6ac3f2c7ed71916f79bc6e3ac5e0dda6250",
+      "updatedAt": "2026-09-13T09:50:54.362Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/uk/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "uk",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "5291c5b95119ac96e1bdeeaaa2ddf87723f995429387424bb822c2d27de93ef5",
+      "updatedAt": "2026-09-13T09:50:58.879Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/uk/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "uk",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "8c73282a71717aae4d215823014a7d61d2b718ac7fac1ed7a44da435571c86b5",
+      "updatedAt": "2026-09-13T09:51:09.917Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/uk/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "uk",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "65d6827d793458f72df6a9c15d27af9382788d7e4d18f98a7f10b0b3a1d3aca0",
+      "updatedAt": "2026-09-13T09:51:10.933Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/uk/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "uk",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "f8d1fb8e3978ec66d85b46cb8d93796bcf77af06015949909380dcf847c59007",
+      "updatedAt": "2026-09-13T09:51:14.402Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/uk/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "uk",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "5aeed9822124afba59a86fb977575e7ff013e6bda832dd1baa389a47a3884f7c",
+      "updatedAt": "2026-09-13T09:51:11.643Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/vi/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "vi",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "873843cfbc4cbb23aa02799dd4d51327befdbed4fa7738dea79d5b62655559e9",
+      "updatedAt": "2026-09-13T09:51:44.613Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/vi/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "vi",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "e66e558333d21e132d2caabac756794c8345008318de816e5f085dee50e3a48a",
+      "updatedAt": "2026-09-13T09:51:54.432Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/vi/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "vi",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "eed0ea4a154d0ed4952e7703438d292c7162eb1d44ee79288e220597d0d051c5",
+      "updatedAt": "2026-09-13T09:52:02.988Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/vi/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "vi",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "4349ad95bbc690406e86e4c651e3c77b8b193bf5670d4065f432db14f6423e29",
+      "updatedAt": "2026-09-13T09:51:55.478Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/vi/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "vi",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "a39029895e49c2cdfe79a3cdf339c5368cd743a3aaa23a01e3fab4fae033aae4",
+      "updatedAt": "2026-09-13T09:51:59.978Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/vi/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "vi",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "0c7d995d9f51794ffc894950ff1179d560ed5bd4f9e218b67ecf51ef571cccb4",
+      "updatedAt": "2026-09-13T09:52:01.800Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/zh-Hans/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hans",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "45fc5720989bd47b19639dd5d10d88f50bb2608bbc7f7c12cb2b3ed5d2efb9ee",
+      "updatedAt": "2026-09-13T09:43:34.915Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/zh-Hans/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hans",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "f382570786f46fe75fa46df8056275ce813d4f246517a37594a8056c050b97e7",
+      "updatedAt": "2026-09-13T09:43:39.035Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/zh-Hans/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hans",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "b9d33a3597700e9cc5d3e7203eef80646cea2a9b4b601f46f6452810cdc3d2ba",
+      "updatedAt": "2026-09-13T09:43:45.232Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/zh-Hans/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hans",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "569bb7744cde274bf2459c3a83d830f227350e03c3415382b0d44447d63ef5a4",
+      "updatedAt": "2026-09-13T09:43:35.717Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/zh-Hans/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hans",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "dc1d7d14a0383b0cb27c036788df31e1c6db406cfe4e0da25d700068460ec874",
+      "updatedAt": "2026-09-13T09:43:45.288Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/zh-Hans/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hans",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "updatedAt": "2026-09-13T09:43:45.458Z"
+    },
+    {
+      "sourceRelativePath": "1-introduction.md",
+      "targetRelativePath": "i18n/zh-Hant/1-introduction.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hant",
+      "sourceHash": "7796490c5a6b3019d367cc8c947f92c82beb62e541000efe4c08dda746b84c85",
+      "targetHash": "7449b8d94875527d0649f78c442fec827026341b495b37e05aac7dfac40f5532",
+      "updatedAt": "2026-09-13T09:43:54.535Z"
+    },
+    {
+      "sourceRelativePath": "2-preliminaries.md",
+      "targetRelativePath": "i18n/zh-Hant/2-preliminaries.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hant",
+      "sourceHash": "74cf30ede5a5426f4899e9efa48c28744dd1d857529aa01a56ae464d0189eee3",
+      "targetHash": "32420744a0bebff3fb8b0e9dc167f1ff59177e51055b3401536cac173d8afc3e",
+      "updatedAt": "2026-09-13T09:44:02.708Z"
+    },
+    {
+      "sourceRelativePath": "3-results.md",
+      "targetRelativePath": "i18n/zh-Hant/3-results.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hant",
+      "sourceHash": "93d1f304711f4ea83f41232a248fbbd843d0c20f1909584c2bbd8b58e3369602",
+      "targetHash": "b2dec263d54a062cd0073f6f062057370f2a24b57d57fcbd71e14124f82e5fcc",
+      "updatedAt": "2026-09-13T09:44:20.982Z"
+    },
+    {
+      "sourceRelativePath": "4-discussion.md",
+      "targetRelativePath": "i18n/zh-Hant/4-discussion.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hant",
+      "sourceHash": "7b1edb20b92750e97ab8ae57e0bdb96df63f5ff53cf56f2f6d0b0d17f5c18086",
+      "targetHash": "c09ed550238f39be1c0712d09259483462f2825227023bb37944096d556392ac",
+      "updatedAt": "2026-09-13T09:43:59.085Z"
+    },
+    {
+      "sourceRelativePath": "README.md",
+      "targetRelativePath": "i18n/zh-Hant/README.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hant",
+      "sourceHash": "8d2065aa4138229b8f9ea797c3199c8a682cb3fb1076de044b80b2ac6b657d0b",
+      "targetHash": "8647b79eb910bcf720c0654060707750dee629b5d96017ca4db7b24300316601",
+      "updatedAt": "2026-09-13T09:44:08.187Z"
+    },
+    {
+      "sourceRelativePath": "references.md",
+      "targetRelativePath": "i18n/zh-Hant/references.md",
+      "sourceLocale": "ja",
+      "targetLocale": "zh-Hant",
+      "sourceHash": "cd26bc3ccca9fdea49260bebf89bcef383bfea3ac278c195472617c767de80d1",
+      "targetHash": "395eb4a89acec272e6cf23c80d86c0d291e36f76d89ef70e25ad7483c1bd5f4d",
+      "updatedAt": "2026-09-13T09:44:07.592Z"
+    }
+  ]
+}
